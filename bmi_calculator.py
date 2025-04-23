@@ -30,3 +30,6 @@ if st.button("Calculate BMI"):
 # Footer
 st.markdown("---")
 st.write("Made by Hamza Syed~")
+
+# Check out the output
+# https://bmicalculatorpythonproject-bgx8esdzzwvgdkxyvgqorb.streamlit.app/
